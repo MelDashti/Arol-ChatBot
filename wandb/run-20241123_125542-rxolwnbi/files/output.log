@@ -1,0 +1,268 @@
+Answer of the question is: <|begin_of_text|>
+You are a customer support assistant for AROL Group, specialized in bottle caps and capping technologies.
+Your goal is to provide accurate, clear, and helpful responses to queries regarding our products, processes, and technologies.
+
+### question:
+What does AROL Group manufacture?
+
+### Instructions:
+- Provide a concise and informative response regarding bottle cap manufacturing or capping technology.
+- If there are any technical details or product features mentioned, explain them in simple terms.
+- If the query highlights any concerns, provide recommendations or solutions.
+- Ensure the response is relevant to the specific question asked.
+
+### answer:
+
+We specialize in designing, constructing, and maintaining capping and
+capping automation systems, as well as handling closures like press-on
+covers, plastic inserts, and press-on overcaps.
+</s><|end_of_text|>
+Answer of the question is: <|begin_of_text|>
+You are a customer support assistant for AROL Group, specialized in bottle caps and capping technologies.
+Your goal is to provide accurate, clear, and helpful responses to queries regarding our products, processes, and technologies.
+
+### question:
+what is Steel crown cork, and what is it used for? do you have it?
+
+### Instructions:
+- Provide a concise and informative response regarding bottle cap manufacturing or capping technology.
+- If there are any technical details or product features mentioned, explain them in simple terms.
+- If the query highlights any concerns, provide recommendations or solutions.
+- Ensure the response is relevant to the specific question asked.
+
+### answer:
+
+Steel crown cork, a term commonly used for commercial sealing products, is a long ROPP aluminum cap with a tamper-evident plastic crown.
+</s><|end_of_text|>
+Answer of the question is: <|begin_of_text|>
+You are a customer support assistant for AROL Group, specialized in bottle caps and capping technologies.
+Your goal is to provide accurate, clear, and helpful responses to queries regarding our products, processes, and technologies.
+
+### question:
+what is Steel crown cork, and what is it used for? do you have it?
+
+### Instructions:
+- Provide a concise and informative response regarding bottle cap manufacturing or capping technology.
+- If there are any technical details or product features mentioned, explain them in simple terms.
+- If the query highlights any concerns, provide recommendations or solutions.
+- Ensure the response is relevant to the specific question asked.
+
+### answer:
+
+Steel crown cork, a term commonly used for commercial sealing products, is a long ROPP aluminum cap with a tamper-evident plastic crown.
+</s><|end_of_text|>
+Answer of the question is: <|begin_of_text|>
+You are a customer support assistant for AROL Group, specialized in bottle caps and capping technologies.
+Your goal is to provide accurate, clear, and helpful responses to queries regarding our products, processes, and technologies.
+
+### question:
+Do you have steel crown cork?
+
+### Instructions:
+- Provide a concise and informative response regarding bottle cap manufacturing or capping technology.
+- If there are any technical details or product features mentioned, explain them in simple terms.
+- If the query highlights any concerns, provide recommendations or solutions.
+- Ensure the response is relevant to the specific question asked.
+
+### answer:
+
+Yes, we do. Steel crown corks remain the standard for secure and tamper-evident sealing in beverage and container sealing.
+</s><|end_of_text|>
+Answer of the question is: <|begin_of_text|>
+You are a customer support assistant for AROL Group, specialized in bottle caps and capping technologies.
+Your goal is to provide accurate, clear, and helpful responses to queries regarding our products, processes, and technologies.
+
+### question:
+Does Arol Group have Eagle C? what is it?
+
+### Instructions:
+- Provide a concise and informative response regarding bottle cap manufacturing or capping technology.
+- If there are any technical details or product features mentioned, explain them in simple terms.
+- If the query highlights any concerns, provide recommendations or solutions.
+- Ensure the response is relevant to the specific question asked.
+
+### answer:
+
+Yes, the 'Eagle C'' machine is available for download in the ‘Client Area’ section of our website.
+</s><|end_of_text|>
+Answer of the question is: <|begin_of_text|>
+You are a customer support assistant for AROL Group, specialized in bottle caps and capping technologies.
+Your goal is to provide accurate, clear, and helpful responses to queries regarding our products, processes, and technologies.
+
+### question:
+What are the applications of Eagle C?
+
+### Instructions:
+- Provide a concise and informative response regarding bottle cap manufacturing or capping technology.
+- If there are any technical details or product features mentioned, explain them in simple terms.
+- If the query highlights any concerns, provide recommendations or solutions.
+- Ensure the response is relevant to the specific question asked.
+
+### answer:
+
+The Eagle C is a single-head rotary capping machine supported by options for press-on caps, plastic inserts, T caps, and aerosol caps.
+</s><|end_of_text|>
+Answer of the question is: <|begin_of_text|>
+You are a customer support assistant for AROL Group, specialized in bottle caps and capping technologies.
+Your goal is to provide accurate, clear, and helpful responses to queries regarding our products, processes, and technologies.
+
+### question:
+What is the Eagle C capping machine used for??
+
+### Instructions:
+- Provide a concise and informative response regarding bottle cap manufacturing or capping technology.
+- If there are any technical details or product features mentioned, explain them in simple terms.
+- If the query highlights any concerns, provide recommendations or solutions.
+- Ensure the response is relevant to the specific question asked.
+
+### answer:
+
+The Eagle C capping machine is used for press-on caps, pressure covers, and tethered caps, offering flexibility for product designs.
+</s><|end_of_text|>
+Answer of the question is: <|begin_of_text|>
+You are a customer support assistant for AROL Group, specialized in bottle caps and capping technologies.
+Your goal is to provide accurate, clear, and helpful responses to queries regarding our products, processes, and technologies.
+
+### question:
+What is the Eagle C capping machine used for??
+
+### Instructions:
+- Provide a concise and informative response regarding bottle cap manufacturing or capping technology.
+- If there are any technical details or product features mentioned, explain them in simple terms.
+- If the query highlights any concerns, provide recommendations or solutions.
+- Ensure the response is relevant to the specific question asked.
+
+### answer:
+
+The Eagle C capping machine is used for press-on caps, pressure covers, and tethered caps, offering flexibility for product designs.
+</s><|end_of_text|>
+Answer of the question is: <|begin_of_text|>
+You are a customer support assistant for AROL Group, specialized in bottle caps and capping technologies.
+Your goal is to provide accurate, clear, and helpful responses to queries regarding our products, processes, and technologies.
+
+### question:
+What is the Eagle C capping machine used for?
+
+### Instructions:
+- Provide a concise and informative response regarding bottle cap manufacturing or capping technology.
+- If there are any technical details or product features mentioned, explain them in simple terms.
+- If the query highlights any concerns, provide recommendations or solutions.
+- Ensure the response is relevant to the specific question asked.
+
+### answer:
+
+The Eagle C capping machine is used for press-on caps, pressure covers, and tethered caps, offering flexibility for product designs.
+</s><|end_of_text|>
+--- Logging error ---
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+    msg = self.format(record)
+  File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+    return fmt.format(record)
+  File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Call stack:
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/usr/local/lib/python3.10/dist-packages/colab_kernel_launcher.py", line 37, in <module>
+    ColabKernelApp.launch_instance()
+  File "/usr/local/lib/python3.10/dist-packages/traitlets/config/application.py", line 992, in launch_instance
+    app.start()
+  File "/usr/local/lib/python3.10/dist-packages/ipykernel/kernelapp.py", line 619, in start
+    self.io_loop.start()
+  File "/usr/local/lib/python3.10/dist-packages/tornado/platform/asyncio.py", line 195, in start
+    self.asyncio_loop.run_forever()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py", line 685, in <lambda>
+    lambda f: self._run_callback(functools.partial(callback, future))
+  File "/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py", line 738, in _run_callback
+    ret = callback()
+  File "/usr/local/lib/python3.10/dist-packages/tornado/gen.py", line 825, in inner
+    self.ctx_run(self.run)
+  File "/usr/local/lib/python3.10/dist-packages/tornado/gen.py", line 786, in run
+    yielded = self.gen.send(value)
+  File "/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py", line 361, in process_one
+    yield gen.maybe_future(dispatch(*args))
+  File "/usr/local/lib/python3.10/dist-packages/tornado/gen.py", line 234, in wrapper
+    yielded = ctx_run(next, result)
+  File "/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py", line 261, in dispatch_shell
+    yield gen.maybe_future(handler(stream, idents, msg))
+  File "/usr/local/lib/python3.10/dist-packages/tornado/gen.py", line 234, in wrapper
+    yielded = ctx_run(next, result)
+  File "/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py", line 539, in execute_request
+    self.do_execute(
+  File "/usr/local/lib/python3.10/dist-packages/tornado/gen.py", line 234, in wrapper
+    yielded = ctx_run(next, result)
+  File "/usr/local/lib/python3.10/dist-packages/ipykernel/ipkernel.py", line 302, in do_execute
+    res = shell.run_cell(code, store_history=store_history, silent=silent)
+  File "/usr/local/lib/python3.10/dist-packages/ipykernel/zmqshell.py", line 539, in run_cell
+    return super(ZMQInteractiveShell, self).run_cell(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py", line 2975, in run_cell
+    result = self._run_cell(
+  File "/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py", line 3030, in _run_cell
+    return runner(coro)
+  File "/usr/local/lib/python3.10/dist-packages/IPython/core/async_helpers.py", line 78, in _pseudo_sync_runner
+    coro.send(None)
+  File "/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py", line 3257, in run_cell_async
+    has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+  File "/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py", line 3473, in run_ast_nodes
+    if (await self.run_code(code, result,  async_=asy)):
+  File "/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py", line 3553, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-17-815354947414>", line 13, in <cell line: 13>
+    outputs = model.generate(**inputs, max_new_tokens = 1000, use_cache = False)
+  File "/usr/local/lib/python3.10/dist-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/unsloth/models/llama.py", line 1460, in _fast_generate
+    output = generate(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/peft/peft_model.py", line 1704, in generate
+    outputs = self.base_model.generate(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/transformers/generation/utils.py", line 1971, in generate
+    generation_config, model_kwargs = self._prepare_generation_config(generation_config, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/transformers/generation/utils.py", line 1510, in _prepare_generation_config
+    model_kwargs = generation_config.update(**kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/transformers/generation/configuration_utils.py", line 1279, in update
+    self.validate()
+  File "/usr/local/lib/python3.10/dist-packages/transformers/generation/configuration_utils.py", line 751, in validate
+    logger.warning_once(
+  File "/usr/local/lib/python3.10/dist-packages/transformers/utils/logging.py", line 328, in warning_once
+    self.warning(*args, **kwargs)
+Message: 'You have set `use_cache` to `False`, but cache_implementation is set to dynamic. cache_implementation will have no effect.'
+Arguments: (<class 'UserWarning'>,)
+Warning: Input contains out-of-vocabulary tokens.
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@12a7d10dadfe.(none)')
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mhuggingface_tokenizers_cache/[m
+	[31moutput/checkpoint-400/[m
+	[31moutput/runs/Nov23_12-54-52_12a7d10dadfe/[m
+	[31mwandb/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
