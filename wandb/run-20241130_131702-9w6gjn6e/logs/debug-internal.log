@@ -1,0 +1,18 @@
+{"time":"2024-11-30T13:17:02.101370573Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-30T13:17:02.101403808Z","level":"INFO","msg":"created symlink","path":"/content/Smart-Chatbot/wandb/run-20241130_131702-9w6gjn6e/logs/debug-core.log"}
+{"time":"2024-11-30T13:17:02.205424176Z","level":"INFO","msg":"created new stream","id":"9w6gjn6e"}
+{"time":"2024-11-30T13:17:02.205489935Z","level":"INFO","msg":"stream: started","id":"9w6gjn6e"}
+{"time":"2024-11-30T13:17:02.205510685Z","level":"INFO","msg":"writer: Do: started","stream_id":"9w6gjn6e"}
+{"time":"2024-11-30T13:17:02.20564666Z","level":"INFO","msg":"handler: started","stream_id":"9w6gjn6e"}
+{"time":"2024-11-30T13:17:02.205667311Z","level":"INFO","msg":"sender: started","stream_id":"9w6gjn6e"}
+{"time":"2024-11-30T13:17:04.388483562Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-30T13:43:23.72377065Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-30T13:44:01.215905172Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-30T13:44:01.444996575Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-30T13:44:11.045500058Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-30T13:44:13.171154669Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-30T13:44:36.125793842Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-30T13:44:37.26624405Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-30T13:47:44.157722213Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-30T13:47:47.346620905Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-30T13:49:57.352281802Z","level":"INFO","msg":"Resuming system monitor"}

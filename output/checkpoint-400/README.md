@@ -1,5 +1,5 @@
 ---
-base_model: unsloth/Llama-3.2-1B-bnb-4bit
+base_model: unsloth/llama-3.2-1b
 library_name: peft
 ---
 
