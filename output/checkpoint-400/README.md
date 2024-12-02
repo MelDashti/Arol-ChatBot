@@ -1,5 +1,5 @@
 ---
-base_model: unsloth/llama-3.2-1b
+base_model: unsloth/llama-3.2-3b
 library_name: peft
 ---
 
