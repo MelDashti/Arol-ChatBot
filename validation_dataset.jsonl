@@ -1,401 +1,105 @@
-[
-    {
-        "question": "What services does AROL Group provide regarding bottle closures?",
-        "answer": "AROL Group focuses on the design, manufacturing, and distribution of capping systems and inspection technologies for various sectors."
-    },
-    {
-        "question": "Where can I find the legal terms for AROL's services?",
-        "answer": "The legal terms can be accessed in the 'Terms & Conditions' section of our official website."
-    },
-    {
-        "question": "Which sectors does AROL cater to with its capping solutions?",
-        "answer": "AROL caters to sectors including beverages, dairy, food, personal care, household products, and chemicals."
-    },
-    {
-        "question": "What is the location of AROL's headquarters?",
-        "answer": "AROL S.P.A. is based at Viale Italia, 193 - 14053 Canelli (Asti), Italy."
-    },
-    {
-        "question": "How can I reach AROL for inquiries about their products?",
-        "answer": "For product inquiries, please visit the 'Customer Care' section on our website to get in touch."
-    },
-    {
-        "question": "Are there any career opportunities available at AROL?",
-        "answer": "Yes, you can find job openings in the 'Work with Us' section on our website."
-    },
-    {
-        "question": "Is AROL's ethical policy accessible online?",
-        "answer": "Yes, the 'Code of Ethics' and whistleblowing policy can be found in the 'Terms & Conditions' area of our website."
-    },
-    {
-        "question": "How can I obtain detailed information about your capping technologies?",
-        "answer": "You can explore in-depth details about our capping technologies in the 'Sectors' section of our website, specific to different industries."
-    },
-    {
-        "question": "What steps should I follow to receive a quote from AROL?",
-        "answer": "To request a quote, please fill out the form in the 'Contact' section on our website with your information and requirements."
-    },
-    {
-        "question": "Where can I stay updated on AROL's latest news and events?",
-        "answer": "You can find the latest news and events by visiting the 'News & Events' section on our official website."
-    },
-    {
-        "question": "Does AROL offer support for their capping machinery?",
-        "answer": "Yes, AROL provides extensive support for all capping machines. You can find assistance in the 'Customer Care' section."
-    },
-    {
-        "question": "What does AROL's privacy policy entail?",
-        "answer": "You can review our privacy policy by clicking the 'Privacy Policy' link located in the footer of our website."
-    },
-    {
-        "question": "Can AROL's solutions be tailored to specific requirements?",
-        "answer": "Absolutely, we provide customized solutions designed to meet the unique capping and inspection needs of various industries."
-    },
-    {
-        "question": "How can I learn more about AROL Group's operations?",
-        "answer": "To learn more about AROL Group, visit the 'Company' or 'AROL Group' sections on our website for insights into our mission and offerings."
-    },
-    {
-        "question": "What should I do if I wish to visit AROL's office?",
-        "answer": "You are welcome to visit our headquarters in Canelli, Italy. Please check the 'Contacts' section for the exact address and contact details."
-    },
-    {
-        "question": "Does AROL provide capping solutions for the food sector?",
-        "answer": "Yes, AROL specializes in capping solutions for the food sector, including options for dairy, edible oils, and other food products."
-    },
-    {
-        "question": "What certifications does AROL hold?",
-        "answer": "AROL is affiliated with organizations like UCIMA and ATpica, which ensures compliance with industry standards."
-    },
-    {
-        "question": "How can I keep informed about new products from AROL?",
-        "answer": "You can stay informed by regularly checking the 'News & Events' section for announcements regarding new products and innovations."
-    },
-    {
-        "question": "What should I do if I encounter a problem with an AROL machine?",
-        "answer": "If you face any issues, please reach out to our 'Customer Care' team via the website for prompt assistance."
-    },
-    {
-        "question": "Does AROL have solutions for personal care packaging?",
-        "answer": "Yes, we offer capping solutions specifically designed for the personal care sector, ensuring secure packaging."
-    },
-    {
-        "question": "Where can I find AROL 's legal disclaimers?",
-        "answer": "You can find our legal disclaimers in the 'Terms & Conditions' section of our website."
-    },
-    {
-        "question": "What types of beverages can AROL's capping machines handle?",
-        "answer": "AROL's capping machines are capable of handling a variety of beverages, including water, juice, beer, and wine."
-    },
-    {
-        "question": "Is there a catalog available for AROL's products?",
-        "answer": "Yes, you can download the general product catalog from our website to explore our offerings."
-    },
-    {
-        "question": "How can I request technical support for my AROL equipment?",
-        "answer": "You can request technical support by contacting our 'Customer Care' team through the website."
-    },
-    {
-        "question": "What sectors are served by AROL's capping machines?",
-        "answer": "AROL's capping machines serve sectors such as beverages, food, chemicals, personal care, and household care."
-    },
-    {
-        "question": "Can I view case studies of AROL's work?",
-        "answer": "Currently, we do not display case studies online, but you can contact us for more information about our projects."
-    },
-    {
-        "question": "Does AROL provide solutions for the chemical industry?",
-        "answer": "Yes, we offer specialized capping and closure systems tailored for the chemical industry."
-    },
-    {
-        "question": "How can I access the whistleblowing policy document?",
-        "answer": "You can access the whistleblowing policy document through the 'Terms & Conditions' section or download it directly from the provided link."
-    },
-    {
-        "question": "What kind of customer support can I expect from AROL?",
-        "answer": "AROL offers dedicated customer support for troubleshooting, maintenance, and ensuring optimal performance of your capping systems."
-    },
-    {
-        "question": "Does AROL have machines for wine and spirits packaging?",
-        "answer": "Yes, we provide capping machines specifically designed for the wine and spirits industry."
-    },
-    {
-        "question": "How can I learn about AROL's sustainability efforts?",
-        "answer": "For information about our sustainability initiatives, please reach out through the 'Contact' section on our website."
-    },
-    {
-        "question": "Does AROL offer training for operating its machines?",
-        "answer": "Yes, we provide training to help your team operate our capping machines effectively. Please contact 'Customer Care' for more details."
-    },
-    {
-        "question": "Can I obtain spare parts for AROL machines?",
-        "answer": "Yes, we supply spare parts for all AROL machines. Please contact 'Customer Care' for availability and ordering information."
-    },
-    {
-        "question": "Are AROL's solutions suitable for household care products?",
-        "answer": "Yes, we offer tailored capping solutions for household care products to ensure quality and efficiency."
-    },
-    {
-        "question": "How do I find the nearest AROL distributor?",
-        "answer": "To locate the nearest distributor, please contact us through the 'Contacts' section, and we will assist you."
-    },
-    {
-        "question": "What is the Dart R machine designed for?",
-        "answer": "The Dart R is a single-head rotary capping machine designed for lids, capable of producing up to 450 bottles per minute."
-    },
-    {
-        "question": "What materials are used in the Dart R machine's construction?",
-        "answer": "The Dart R machine features components made from painted steel and INOX stainless steel, ensuring durability and washability."
-    },
-    {
-        "question": "What options are available for the Dart R machine?",
-        "answer": "Options for the Dart R machine include ionizer/dust extraction, UV lamp on the caps chute, quick-change formats, and a caps elevator."
-    },
-    {
-        "question": "How can I contact AROL for more information about the Dart R machine?",
-        "answer": "You can fill out the contact form on our website, providing your name, company, product type, and specific needs."
-    },
-    {
-        "question": "What types of caps does AROL offer for food supplements?",
-        "answer": "For food supplements, AROL provides options such as pre-threaded flat plastic caps, pressure covers, and short ROPP aluminum caps."
-    },
-    {
-        "question": "What is the maximum production speed of the Dart R machine?",
-        "answer": "The Dart R machine can achieve a production speed of up to 450 bottles per minute."
-    },
-    {
-        "question": "Where can I download AROL's general catalog?",
-        "answer": "You can download the AROL General Catalog from the 'Download PDF' section on the website after providing your contact details."
-    },
-    {
-        "question": "What capping solutions does AROL provide for personal care products?",
-        "answer": "AROL offers a variety of caps for personal care products, including aerosol caps, pre-threaded flip-top caps, and spray pump caps."
-    },
-    {
-        "question": "What options are available for chemical product closures?",
-        "answer": "For chemical products, AROL provides options such as aerosol caps, flex spouts, and pre-threaded flip-top caps."
-    },
-    {
-        "question": "What is required before downloading a file from AROL's website?",
-        "answer": "You need to provide your name, surname, company details, and agree to the privacy policy before downloading."
-    },
-    {
-        "question": "What capping solutions are available for edible oil products?",
-        "answer": "AROL offers short ROPP aluminum caps, pre-threaded flat plastic caps, flex spouts, and non-refillable aluminum caps with pourers for edible oil products."
-    },
-    {
-        "question": "Where can I find AROL's Code of Ethics?",
-        "answer": "AROL's Code of Ethics is available for download in the 'Terms & Conditions' section of the website."
-    },
-    {
-        "question": "What are the washing capabilities of the Dart R capping machine?",
-        "answer": "The Dart R machine features washable options, including stainless steel components and a gear motor with a cover for complete washing."
-    },
-    {
-        "question": "What industries does AROL serve with its capping solutions?",
-        "answer": "AROL serves industries such as beverages, food supplements, personal care, household care, chemicals, and more."
-    },
-    {
-        "question": "What features are available on the cap chute for the Dart R machine?",
-        "answer": "The Dart R cap chute can be equipped with an ionizer, dust extraction, or a UV lamp for enhanced functionality."
-    },
-    {
-        "question": "How can I ensure quick format changes for the Dart R machine?",
-        "answer": "The Dart R offers quick-change options for the caps chute and body-guide assembly, making format changes easier."
-    },
-    {
-        "question": "What capping solutions does AROL provide for juice packaging?",
-        "answer": "For juice packaging, AROL offers options such as pre-threaded flat plastic caps, steel crown corks, aluminum crown corks, and tethered caps."
-    },
-    {
-        "question": "What is the maximum speed of the Dart R machine in bottles per minute?",
-        "answer": "The Dart R machine can operate at a maximum speed of 450 bottles per minute."
-    },
-    {
-        "question": "What type of customer care does AROL offer?",
-        "answer": "AROL provides comprehensive customer care services, including technical assistance and maintenance for their capping machines."
-    },
-    {
-        "question": "What solutions does AROL provide for wine and spirits packaging?",
-        "answer": "AROL offers mushroom corks, glass T caps, long ROPP aluminum caps, and bidule + crown caps for wine and spirits."
-    },
-    {
-        "question": "How can I learn about AROL's sustainability initiatives?",
-        "answer": "For information about our sustainability initiatives, you can reach out to us through the 'Contact' section on the website."
-    },
-    {
-        "question": "Does AROL offer training for using its machines?",
-        "answer": "Yes, we offer training to help your team operate our capping machines efficiently. Please contact 'Customer Care' for details."
-    },
-    {
-        "question": "Can I get spare parts for AROL machines?",
-        "answer": "Yes, we provide spare parts for all AROL machines. Contact 'Customer Care' for availability and ordering."
-    },
-    {
-        "question": "Are AROL's solutions suitable for household care products?",
-        "answer": "Absolutely! We offer tailored capping solutions for household care products to ensure quality and efficiency."
-    },
-    {
-        "question": "How do I find the nearest AROL distributor?",
-        "answer": "To find the nearest distributor, please contact us through the 'Contacts' section, and we will assist you."
-    },
-    {
-        "question": "What is the Dart R machine used for?",
-        "answer": "The Dart R is a single head rotary capping machine designed for lids and can produce up to 450 bpm (27,000 bph)."
-    },
-    {
-        "question": "What materials are used in the construction of the Dart R machine?",
-        "answer": "The Dart R machine features components with options for painted steel, INOX stainless steel for washing, and a fully washable stainless steel structure."
-    },
-    {
-        "question": "What options are available for the Dart R machine?",
-        "answer": "Options for the Dart R machine include ionizer/dust extraction, UV lamp on caps chute, quick-change formats, and a caps elevator."
-    },
-    {
-        "question": "How can I contact AROL for more information about the Dart R machine?",
-        "answer": "You can fill out the contact form on the website, providing details such as your name, company, product type, and specific needs."
-    },
-    {
-        "question": "What type of caps does AROL provide for food supplements?",
-        "answer": "For food supplements, AROL provides options like pre-threaded flat plastic caps, pressure covers, short ROPP aluminum caps, and lids."
-    },
-    {
-        "question": "What is the maximum production speed of the Dart R machine?",
-        "answer": "The Dart R can achieve a production speed of up to 450 bpm (27,000 bottles per hour)."
-    },
-    {
-        "question": "Where can I download AROL's general catalog?",
-        "answer": "You can download the AROL General Catalog from the 'Download PDF' section on the website after providing your contact details."
-    },
-    {
-        "question": "What capping solutions does AROL offer for personal care products?",
-        "answer": "AROL offers aerosol caps, pre-threaded flip top caps, press-on flip top caps, spray pump caps, and pre-threaded caps with spout for personal care products."
-    },
-    {
-        "question": "What capping options are available for chemical products?",
-        "answer": "For chemical products, AROL provides options such as aerosol caps, flex spouts, pre-threaded flip top caps, press-on flip top caps, and spray pump caps."
-    },
-    {
-        "question": "What is required before downloading a file from the AROL website?",
-        "answer": "Before downloading, you need to provide your name, surname, company details, and agree to the privacy policy."
-    },
-    {
-        "question": "What capping solutions are available for edible oil products?",
-        "answer": "AROL offers short ropp aluminum caps, pre-threaded flat plastic caps, flex spouts, spray pump caps, and non-refillable aluminum caps with pourer for edible oil products."
-    },
-    {
-        "question": "Where can I find AROL's Code of Ethics?",
-        "answer": "AROL's Code of Ethics is available for download in the 'Terms & Conditions' section of the website."
-    },
-    {
-        "question": "What are the washing capabilities of the Dart R capping machine?",
-        "answer": "The Dart R machine offers washable options, including stainless steel components and a gear motor with a cover, allowing for complete washing of the capper."
-    },
-    {
-        "question": "What type of industries does AROL serve with its capping solutions?",
-        "answer": "AROL serves industries such as beverages, food supplements, personal care, household care, chemicals, and more."
-    },
-    {
-        "question": "What features are available on the cap chute for the Dart R machine?",
-        "answer": "The Dart R cap chute can be equipped with an ionizer, dust extraction, or a UV lamp for enhanced functionality."
-    },
-    {
-        "question": "How can I ensure quick format changes for the Dart R machine?",
-        "answer": "The Dart R offers quick-change options for the caps chute and body-guide assembly, making format changes easier."
-    },
-    {
-        "question": "What capping solutions does AROL provide for juice packaging?",
-        "answer": "For juice packaging, AROL offers options such as pre-threaded flat plastic caps, steel crown corks, aluminum crown corks, and tethered caps."
-    },
-    {
-        "question": "What is the maximum speed of the Dart R machine in bottles per minute?",
-        "answer": "The Dart R machine can operate at a maximum speed of 450 bottles per minute."
-    },
-    {
-        "question": "What type of customer care does AROL offer?",
-        "answer": "AROL provides comprehensive customer care services, including technical assistance and maintenance for their capping machines."
-    },
-    {
-        "question": "What solutions does AROL provide for wine and spirits packaging?",
-        "answer": "AROL offers mushroom corks, glass T caps, long ROPP aluminum caps, and bidule + crown caps for wine and spirits."
-    },
-    {
-        "question": "How can I learn about AROL's sustainability initiatives?",
-        "answer": "For information about our sustainability initiatives, please reach out through the 'Contact' section on the website."
-    },
-    {
-        "question": "Does AROL offer training for using its machines?",
-        "answer": "Yes, we provide training to help your team operate our capping machines efficiently. Please contact 'Customer Care' for details."
-    },
-    {
-        "question": "Can I get spare parts for AROL machines?",
-        "answer": "Yes, we provide spare parts for all AROL machines. Contact 'Customer Care' for availability and ordering."
-    },
-    {
-        "question": "Are AROL's solutions suitable for household care products?",
-        "answer": "Absolutely! We offer tailored capping solutions for household care products to ensure quality and efficiency."
-    },
-    {
-        "question": "How do I find the nearest AROL distributor?",
-        "answer": "To find the nearest distributor, please contact us through the 'Contacts' section, and we will assist you."
-    },
-    {
-        "question": "What is the Dart R machine used for?",
-        "answer": "The Dart R is a single head rotary capping machine designed for lids and can produce up to 450 bpm (27,000 bph)."
-    },
-    {
-        "question": "What materials are used in the construction of the Dart R machine?",
-        "answer": "The Dart R machine features components with options for painted steel, INOX stainless steel for washing, and a fully washable stainless steel structure."
-    },
-    {
-        "question": "What options are available for the Dart R machine?",
-        "answer": "Options for the Dart R machine include ionizer/dust extraction, UV lamp on caps chute, quick-change formats, and a caps elevator."
-    },
-    {
-        "question": "How can I contact AROL for more information about the Dart R machine?",
-        "answer": "You can fill out the contact form on the website, providing details such as your name, company, product type, and specific needs."
-    },
-    {
-        "question": "What type of caps does AROL provide for food supplements?",
-        "answer": "For food supplements, AROL provides options like pre-threaded flat plastic caps, pressure covers, short ROPP aluminum caps, and lids."
-    },
-    {
-        "question": "What is the maximum production speed of the Dart R machine?",
-        "answer": "The Dart R can achieve a production speed of up to 450 bpm (27,000 bottles per hour)."
-    },
-    {
-        "question": "Where can I download AROL's general catalog?",
-        "answer": "You can download the AROL General Catalog from the 'Download PDF' section on the website after providing your contact details."
-    },
-    {
-        "question": "What capping solutions does AROL offer for personal care products?",
-        "answer": "AROL offers aerosol caps, pre-threaded flip top caps, press-on flip top caps, spray pump caps, and pre-threaded caps with spout for personal care products."
-    },
-    {
-        "question": "What capping options are available for chemical products?",
-        "answer": "For chemical products, AROL provides options such as aerosol caps, flex spouts, pre-threaded flip top caps, press-on flip top caps, and spray pump caps."
-    },
-    {
-        "question": "What is required before downloading a file from the AROL website?",
-        "answer": "Before downloading, you need to provide your name, surname, company details, and agree to the privacy policy."
-    },
-    {
-        "question": "What capping solutions are available for edible oil products?",
-        "answer": "AROL offers short ropp aluminum caps, pre-threaded flat plastic caps, flex spouts, spray pump caps, and non-refillable aluminum caps with pourer for edible oil products."
-    },
-    {
-        "question": "Where can I find AROL's Code of Ethics?",
-        "answer": "AROL's Code of Ethics is available for download in the 'Terms & Conditions' section of the website."
-    },
-    {
-        "question": "What are the washing capabilities of the Dart R capping machine?",
-        "answer": "The Dart R machine offers washable options, including stainless steel components and a gear motor with a cover, allowing for complete washing of the capper."
-    },
-    {
-        "question": "What type of industries does AROL serve with its capping solutions?",
-        "answer": "AROL serves industries such as beverages, food supplements, personal care, household care, chemicals, and more."
-    },
-    {
-        "question": "What features are available on the cap chute for the Dart R machine?",
-        "answer": "The Dart R cap chute can be equipped with an ionizer, dust extraction, or" }
-]
+{"question": "What services does AROL Group provide regarding bottle closures?", "answer": "AROL Group focuses on the design manufacturing and distribution of capping systems and inspection technologies for various sectors."}
+{"question": "Where can I find the legal terms for AROL's services?", "answer": "The legal terms can be accessed in the 'Terms & Conditions' section of our official website."}
+{"question": "Which sectors does AROL cater to with its capping solutions?", "answer": "AROL caters to sectors including beverages dairy food personal care household products and chemicals."}
+{"question": "What is the location of AROL's headquarters?", "answer": "AROL S.P.A. is based at Viale Italia 193 - 14053 Canelli (Asti) Italy."}
+{"question": "How can I reach AROL for inquiries about their products?", "answer": "For product inquiries please visit the 'Customer Care' section on our website to get in touch."}
+{"question": "Are there any career opportunities available at AROL?", "answer": "Yes you can find job openings in the 'Work with Us' section on our website."}
+{"question": "Is AROL's ethical policy accessible online?", "answer": "Yes the 'Code of Ethics' and whistleblowing policy can be found in the 'Terms & Conditions' area of our website."}
+{"question": "How can I obtain detailed information about your capping technologies?", "answer": "You can explore in-depth details about our capping technologies in the 'Sectors' section of our website specific to different industries."}
+{"question": "What steps should I follow to receive a quote from AROL?", "answer": "To request a quote please fill out the form in the 'Contact' section on our website with your information and requirements."}
+{"question": "Where can I stay updated on AROL's latest news and events?", "answer": "You can find the latest news and events by visiting the 'News & Events' section on our official website."}
+{"question": "Does AROL offer support for their capping machinery?", "answer": "Yes AROL provides extensive support for all capping machines. You can find assistance in the 'Customer Care' section."}
+{"question": "What does AROL's privacy policy entail?", "answer": "You can review our privacy policy by clicking the 'Privacy Policy' link located in the footer of our website."}
+{"question": "Can AROL's solutions be tailored to specific requirements?", "answer": "Absolutely we provide customized solutions designed to meet the unique capping and inspection needs of various industries."}
+{"question": "How can I learn more about AROL Group's operations?", "answer": "To learn more about AROL Group visit the 'Company' or 'AROL Group' sections on our website for insights into our mission and offerings."}
+{"question": "What should I do if I wish to visit AROL's office?", "answer": "You are welcome to visit our headquarters in Canelli Italy. Please check the 'Contacts' section for the exact address and contact details."}
+{"question": "Does AROL provide capping solutions for the food sector?", "answer": "Yes AROL specializes in capping solutions for the food sector including options for dairy edible oils and other food products."}
+{"question": "What certifications does AROL hold?", "answer": "AROL is affiliated with organizations like UCIMA and ATpica which ensures compliance with industry standards."}
+{"question": "How can I keep informed about new products from AROL?", "answer": "You can stay informed by regularly checking the 'News & Events' section for announcements regarding new products and innovations."}
+{"question": "What should I do if I encounter a problem with an AROL machine?", "answer": "If you face any issues please reach out to our 'Customer Care' team via the website for prompt assistance."}
+{"question": "Does AROL have solutions for personal care packaging?", "answer": "Yes we offer capping solutions specifically designed for the personal care sector ensuring secure packaging."}
+{"question": "Where can I find AROL 's legal disclaimers?", "answer": "You can find our legal disclaimers in the 'Terms & Conditions' section of our website."}
+{"question": "What types of beverages can AROL's capping machines handle?", "answer": "AROL's capping machines are capable of handling a variety of beverages including water juice beer and wine."}
+{"question": "Is there a catalog available for AROL's products?", "answer": "Yes you can download the general product catalog from our website to explore our offerings."}
+{"question": "How can I request technical support for my AROL equipment?", "answer": "You can request technical support by contacting our 'Customer Care' team through the website."}
+{"question": "What sectors are served by AROL's capping machines?", "answer": "AROL's capping machines serve sectors such as beverages food chemicals personal care and household care."}
+{"question": "Can I view case studies of AROL's work?", "answer": "Currently we do not display case studies online but you can contact us for more information about our projects."}
+{"question": "Does AROL provide solutions for the chemical industry?", "answer": "Yes we offer specialized capping and closure systems tailored for the chemical industry."}
+{"question": "How can I access the whistleblowing policy document?", "answer": "You can access the whistleblowing policy document through the 'Terms & Conditions' section or download it directly from the provided link."}
+{"question": "What kind of customer support can I expect from AROL?", "answer": "AROL offers dedicated customer support for troubleshooting maintenance and ensuring optimal performance of your capping systems."}
+{"question": "Does AROL have machines for wine and spirits packaging?", "answer": "Yes we provide capping machines specifically designed for the wine and spirits industry."}
+{"question": "How can I learn about AROL's sustainability efforts?", "answer": "For information about our sustainability initiatives please reach out through the 'Contact' section on our website."}
+{"question": "Does AROL offer training for operating its machines?", "answer": "Yes we provide training to help your team operate our capping machines effectively. Please contact 'Customer Care' for more details."}
+{"question": "Can I obtain spare parts for AROL machines?", "answer": "Yes we supply spare parts for all AROL machines. Please contact 'Customer Care' for availability and ordering information."}
+{"question": "Are AROL's solutions suitable for household care products?", "answer": "Yes we offer tailored capping solutions for household care products to ensure quality and efficiency."}
+{"question": "How do I find the nearest AROL distributor?", "answer": "To locate the nearest distributor please contact us through the 'Contacts' section and we will assist you."}
+{"question": "What is the Dart R machine designed for?", "answer": "The Dart R is a single-head rotary capping machine designed for lids capable of producing up to 450 bottles per minute."}
+{"question": "What materials are used in the Dart R machine's construction?", "answer": "The Dart R machine features components made from painted steel and INOX stainless steel ensuring durability and washability."}
+{"question": "What options are available for the Dart R machine?", "answer": "Options for the Dart R machine include ionizer/dust extraction UV lamp on the caps chute quick-change formats and a caps elevator."}
+{"question": "How can I contact AROL for more information about the Dart R machine?", "answer": "You can fill out the contact form on our website providing your name company product type and specific needs."}
+{"question": "What types of caps does AROL offer for food supplements?", "answer": "For food supplements AROL provides options such as pre-threaded flat plastic caps pressure covers and short ROPP aluminum caps."}
+{"question": "What is the maximum production speed of the Dart R machine?", "answer": "The Dart R machine can achieve a production speed of up to 450 bottles per minute."}
+{"question": "Where can I download AROL's general catalog?", "answer": "You can download the AROL General Catalog from the 'Download PDF' section on the website after providing your contact details."}
+{"question": "What capping solutions does AROL provide for personal care products?", "answer": "AROL offers a variety of caps for personal care products including aerosol caps pre-threaded flip-top caps and spray pump caps."}
+{"question": "What options are available for chemical product closures?", "answer": "For chemical products AROL provides options such as aerosol caps flex spouts and pre-threaded flip-top caps."}
+{"question": "What is required before downloading a file from AROL's website?", "answer": "You need to provide your name surname company details and agree to the privacy policy before downloading."}
+{"question": "What capping solutions are available for edible oil products?", "answer": "AROL offers short ROPP aluminum caps pre-threaded flat plastic caps flex spouts and non-refillable aluminum caps with pourers for edible oil products."}
+{"question": "Where can I find AROL's Code of Ethics?", "answer": "AROL's Code of Ethics is available for download in the 'Terms & Conditions' section of the website."}
+{"question": "What are the washing capabilities of the Dart R capping machine?", "answer": "The Dart R machine features washable options including stainless steel components and a gear motor with a cover for complete washing."}
+{"question": "What industries does AROL serve with its capping solutions?", "answer": "AROL serves industries such as beverages food supplements personal care household care chemicals and more."}
+{"question": "What features are available on the cap chute for the Dart R machine?", "answer": "The Dart R cap chute can be equipped with an ionizer dust extraction or a UV lamp for enhanced functionality."}
+{"question": "How can I ensure quick format changes for the Dart R machine?", "answer": "The Dart R offers quick-change options for the caps chute and body-guide assembly making format changes easier."}
+{"question": "What capping solutions does AROL provide for juice packaging?", "answer": "For juice packaging AROL offers options such as pre-threaded flat plastic caps steel crown corks aluminum crown corks and tethered caps."}
+{"question": "What is the maximum speed of the Dart R machine in bottles per minute?", "answer": "The Dart R machine can operate at a maximum speed of 450 bottles per minute."}
+{"question": "What type of customer care does AROL offer?", "answer": "AROL provides comprehensive customer care services including technical assistance and maintenance for their capping machines."}
+{"question": "What solutions does AROL provide for wine and spirits packaging?", "answer": "AROL offers mushroom corks glass T caps long ROPP aluminum caps and bidule + crown caps for wine and spirits."}
+{"question": "How can I learn about AROL's sustainability initiatives?", "answer": "For information about our sustainability initiatives please reach out through the 'Contact' section on the website."}
+{"question": "Does AROL offer training for using its machines?", "answer": "Yes we provide training to help your team operate our capping machines efficiently. Please contact 'Customer Care' for details."}
+{"question": "Can I get spare parts for AROL machines?", "answer": "Yes we provide spare parts for all AROL machines. Contact 'Customer Care' for availability and ordering."}
+{"question": "Are AROL's solutions suitable for household care products?", "answer": "Absolutely! We offer tailored capping solutions for household care products to ensure quality and efficiency."}
+{"question": "How do I find the nearest AROL distributor?", "answer": "To find the nearest distributor please contact us through the 'Contacts' section and we will assist you."} {"question": "What is the Dart R machine used for?", "answer": "The Dart R is a single head rotary capping machine designed for lids and can produce up to 450 bpm (27,000 bph)."}
+{"question": "What materials are used in the construction of the Dart R machine?", "answer": "The Dart R machine features components with options for painted steel INOX stainless steel for washing and a fully washable stainless steel structure."}
+{"question": "What options are available for the Dart R machine?", "answer": "Options for the Dart R machine include ionizer/dust extraction UV lamp on caps chute quick-change formats and a caps elevator."}
+{"question": "How can I contact AROL for more information about the Dart R machine?", "answer": "You can fill out the contact form on the website providing details such as your name company product type and specific needs."}
+{"question": "What type of caps does AROL provide for food supplements?", "answer": "For food supplements AROL provides options like pre-threaded flat plastic caps pressure covers and short ROPP aluminum caps."}
+{"question": "What is the maximum production speed of the Dart R machine?", "answer": "The Dart R can achieve a production speed of up to 450 bpm (27,000 bottles per hour)."}
+{"question": "Where can I download AROL's general catalog?", "answer": "You can download the AROL General Catalog from the 'Download PDF' section on the website after providing your contact details."}
+{"question": "What capping solutions does AROL offer for personal care products?", "answer": "AROL offers aerosol caps pre-threaded flip top caps press-on flip top caps spray pump caps and pre-threaded caps with spout for personal care products."}
+{"question": "What capping options are available for chemical products?", "answer": "For chemical products AROL provides options such as aerosol caps flex spouts pre-threaded flip top caps press-on flip top caps and spray pump caps."}
+{"question": "What is required before downloading a file from the AROL website?", "answer": "Before downloading you need to provide your name surname company details and agree to the privacy policy."}
+{"question": "What capping solutions are available for edible oil products?", "answer": "AROL offers short ROPP aluminum caps pre-threaded flat plastic caps flex spouts spray pump caps and non-refillable aluminum caps with pourer for edible oil products."}
+{"question": "Where can I find AROL's Code of Ethics?", "answer": "AROL's Code of Ethics is available for download in the 'Terms & Conditions' section of the website."}
+{"question": "What are the washing capabilities of the Dart R capping machine?", "answer": "The Dart R machine offers washable options including stainless steel components and a gear motor with a cover allowing for complete washing of the capper."}
+{"question": "What type of industries does AROL serve with its capping solutions?", "answer": "AROL serves industries such as beverages food supplements personal care household care chemicals and more."}
+{"question": "What features are available on the cap chute for the Dart R machine?", "answer": "The Dart R cap chute can be equipped with an ionizer dust extraction or a UV lamp for enhanced functionality."}
+{"question": "How can I ensure quick format changes for the Dart R machine?", "answer": "The Dart R offers quick-change options for the caps chute and body-guide assembly making format changes easier."}
+{"question": "What capping solutions does AROL provide for juice packaging?", "answer": "For juice packaging AROL offers options such as pre-threaded flat plastic caps steel crown corks aluminum crown corks and tethered caps."}
+{"question": "What is the maximum speed of the Dart R machine in bottles per minute?", "answer": "The Dart R machine can operate at a maximum speed of 450 bottles per minute."}
+{"question": "What type of customer care does AROL offer?", "answer": "AROL provides comprehensive customer care services including technical assistance and maintenance for their capping machines."}
+{"question": "What solutions does AROL provide for wine and spirits packaging?", "answer": "AROL offers mushroom corks glass T caps long ROPP aluminum caps and bidule + crown caps for wine and spirits."}
+{"question": "How can I learn about AROL's sustainability initiatives?", "answer": "For information about our sustainability initiatives please reach out through the 'Contact' section on the website."}
+{"question": "Does AROL offer training for using its machines?", "answer": "Yes we provide training to help your team operate our capping machines efficiently. Please contact 'Customer Care' for details."}
+{"question": "Can I get spare parts for A {"question": "AROL machines?", "answer": "Yes we provide spare parts for all AROL machines. Contact 'Customer Care' for availability and ordering."}
+{"question": "Are AROL's solutions suitable for household care products?", "answer": "Absolutely! We offer tailored capping solutions for household care products to ensure quality and efficiency."}
+{"question": "How do I find the nearest AROL distributor?", "answer": "To find the nearest distributor please contact us through the 'Contacts' section and we will assist you."} {"question": "What is the Dart R machine used for?", "answer": "The Dart R is a single head rotary capping machine designed for lids and can produce up to 450 bpm (27,000 bph)."}
+{"question": "What materials are used in the construction of the Dart R machine?", "answer": "The Dart R machine features components with options for painted steel INOX stainless steel for washing and a fully washable stainless steel structure."}
+{"question": "What options are available for the Dart R machine?", "answer": "Options for the Dart R machine include ionizer/dust extraction UV lamp on caps chute quick-change formats and a caps elevator."}
+{"question": "How can I contact AROL for more information about the Dart R machine?", "answer": "You can fill out the contact form on the website providing details such as your name company product type and specific needs."}
+{"question": "What type of caps does AROL provide for food supplements?", "answer": "For food supplements AROL provides options like pre-threaded flat plastic caps pressure covers and short ROPP aluminum caps."}
+{"question": "What is the maximum production speed of the Dart R machine?", "answer": "The Dart R can achieve a production speed of up to 450 bpm (27,000 bottles per hour)."}
+{"question": "Where can I download AROL's general catalog?", "answer": "You can download the AROL General Catalog from the 'Download PDF' section on the website after providing your contact details."}
+{"question": "What capping solutions does AROL offer for personal care products?", "answer": "AROL offers aerosol caps pre-threaded flip top caps press-on flip top caps spray pump caps and pre-threaded caps with spout for personal care products."}
+{"question": "What capping options are available for chemical products?", "answer": "For chemical products AROL provides options such as aerosol caps flex spouts pre-threaded flip top caps press-on flip top caps and spray pump caps."}
+{"question": "What is required before downloading a file from the AROL website?", "answer": "Before downloading you need to provide your name surname company details and agree to the privacy policy."}
+{"question": "What capping solutions are available for edible oil products?", "answer": "AROL offers short ROPP aluminum caps pre-threaded flat plastic caps flex spouts spray pump caps and non-refillable aluminum caps with pourer for edible oil products."}
+{"question": "Where can I find AROL's Code of Ethics?", "answer": "AROL's Code of Ethics is available for download in the 'Terms & Conditions' section of the website."}
+{"question": "What are the washing capabilities of the Dart R capping machine?", "answer": "The Dart R machine offers washable options including stainless steel components and a gear motor with a cover allowing for complete washing of the capper."}
+{"question": "What type of industries does AROL serve with its capping solutions?", "answer": "AROL serves industries such as beverages food supplements personal care household care chemicals and more."}
+{"question": "What features are available on the cap chute for the Dart R machine?", "answer": "The Dart R cap chute can be equipped with an ionizer dust extraction or a UV lamp for enhanced functionality."}
+{"question": "How can I ensure quick format changes for the Dart R machine?", "answer": "The Dart R offers quick-change options for the caps chute and body-guide assembly making format changes easier."}
+{"question": "What capping solutions does AROL provide for juice packaging?", "answer": "For juice packaging AROL offers options such as pre-threaded flat plastic caps steel crown corks aluminum crown corks and tethered caps."}
+{"question": "What is the maximum speed of the Dart R machine in bottles per minute?", "answer": "The Dart R machine can operate at a maximum speed of 450 bottles per minute."}
+{"question": "What type of customer care does AROL offer?", "answer": "AROL provides comprehensive customer care services including technical assistance and maintenance for their capping machines."}
+{"question": "What solutions does AROL provide for wine and spirits packaging?", "answer": "AROL offers mushroom corks glass T caps long ROPP aluminum caps and bidule + crown caps for wine and spirits."}
+{"question": "How can I learn about AROL's sustainability initiatives?", "answer": "For information about our sustainability initiatives please reach out through the 'Contact' section on the website."}
+{"question": "Does AROL offer training for using its machines?", "answer": "Yes we provide training to help your team operate our capping machines efficiently. Please contact 'Customer Care' for details."}
