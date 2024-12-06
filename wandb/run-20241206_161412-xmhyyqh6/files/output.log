@@ -1,0 +1,30 @@
+Evaluation loss: 0.5593435168266296
+Perplexity: 1.7495235904188378
+/content/Smart-Chatbot
+==((====))==  Unsloth 2024.12.2: Fast Llama patching. Transformers:4.46.3.
+   \\   /|    GPU: Tesla T4. Max memory: 14.748 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.5.1+cu121. CUDA: 7.5. CUDA Toolkit: 12.1. Triton: 3.1.0
+\        /    Bfloat16 = FALSE. FA [Xformers = 0.0.28.post3. FA2 = False]
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+==((====))==  Unsloth 2024.12.2: Fast Llama patching. Transformers:4.46.3.
+   \\   /|    GPU: Tesla T4. Max memory: 14.748 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.5.1+cu121. CUDA: 7.5. CUDA Toolkit: 12.1. Triton: 3.1.0
+\        /    Bfloat16 = FALSE. FA [Xformers = 0.0.28.post3. FA2 = False]
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+fatal: pathspec '.output' did not match any files
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@791e1740d4a3.(none)')
+Everything up-to-date
