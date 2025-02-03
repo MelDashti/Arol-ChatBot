@@ -61,7 +61,6 @@ The fine-tuning process was performed using a Jupyter notebook on Google Colab. 
 - Fine-tuning with LoRA (Low-Rank Adaptation)
 - Model evaluation and deployment on Hugging Face Hub
 
-👉 **[Click here to view the notebook](https://colab.research.google.com/github/MelDashti/Smart-Chatbot/blob/master/AIChatbot.ipynb)** or open it directly in Colab:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MelDashti/Smart-Chatbot/blob/master/AIChatbot.ipynb)
 
 ## 🔗 Links
