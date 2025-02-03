@@ -1,0 +1,17 @@
+langchain-community
+langchain-core
+setuptools
+wheel
+langchain
+transformers
+torch
+torchvision
+torchaudio
+peft
+sentence-transformers
+faiss-cpu
+langchain-huggingface
+timeout-decorator
+pinecone
+pinecone-client
+langchain-pinecone==0.2.0
